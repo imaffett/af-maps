@@ -1,0 +1,13 @@
+{
+    "name": "af-maps",
+    "title": "Maps",
+    "version": "0.1",
+    "author": "Ian Maffett",
+    "license": "MIT X11",
+    "description": "Google Maps plugin for App Framework",
+    "categories": [
+        "maps"
+    ],
+    "homepage": "https://github.com/imaffett/af-maps",
+    "maintainers": ["Ian Maffett"]
+}
